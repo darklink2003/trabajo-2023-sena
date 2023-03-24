@@ -39,6 +39,16 @@ footer {
     width: 60px;
     height: 60px;
 }
+.redes2 {
+    margin-left: 97%;
+    width: 60px;
+    height: 60px;
+    background-color: #39a900;
+}
+.ins{
+    margin-top: 10px;
+    margin-left: 10px;
+}
 .historia{
     border: solid 1px black;
     width: 870px;
@@ -48,6 +58,7 @@ footer {
     margin-left: 10px;
     font-family: 'Lora', serif;
     font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 10px;
 }
 
 .fundador{
@@ -65,6 +76,7 @@ footer {
     margin-left: 10px;
     font-family: 'Lora', serif;
     font-family: 'Roboto Condensed', sans-serif;
+    padding-left: 10px;
 }
 .mision{
     
@@ -76,4 +88,22 @@ footer {
     margin-left: 10px;
     font-family: 'Lora';
     font-family: 'Roboto Condensed';
+    padding-left: 10px;
 }
+.todo{
+    margin-top: -5%;
+}
+
+.logo{
+    margin-top: -500px;
+    margin-left: 65%;
+}
+
+.letra{
+    margin-left: 60%;
+    width: 500px;
+    height: 200px;
+    position: relative;
+    text-align: center;
+    font-family: cursive;
+} 
