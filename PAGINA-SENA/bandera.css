@@ -29,9 +29,13 @@ body {
     background-color: #00324D;
     color: #ffffff;
 }
+
+.bandera{
+    position: relative;
+}
 footer {
     background-color: #39a900;
-    position: absolute;
+    position: fixed;
     bottom: 0;
     width: 100%;
     height: 40px;
