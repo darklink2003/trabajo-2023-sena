@@ -88,7 +88,7 @@ body{
 
 .logo{
     margin-top: -500px;
-    margin-left: 79%;
+    margin-left: 75%;
 }
 
 .letra{
@@ -107,4 +107,12 @@ footer {
     height: 40px;
     color: white;
     text-align: center;
+}
+.t1{
+    margin-left: 35%;
+    margin-top: -30%;
+}
+.t2 {
+    margin-left: 35%;
+    margin-top: -1%;
 }
