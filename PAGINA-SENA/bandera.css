@@ -31,7 +31,14 @@ body {
 }
 
 .bandera{
-    position: relative;
+    margin-left: 5%;
+    margin-top: 5%;
+    text-align: left;
+    font-size: 20px;
+}
+.bandera1{
+    margin-left: 5%;
+    margin-top: -15%;
 }
 footer {
     background-color: #39a900;

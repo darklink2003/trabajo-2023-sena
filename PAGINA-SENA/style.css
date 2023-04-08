@@ -27,12 +27,12 @@ body{
 
 
 .redes{
-    margin-left: 97%;
+    margin-left: 96%;
     width: 60px;
     height: 60px;
 }
 .redes2 {
-    margin-left: 97%;
+    margin-left: 96%;
     width: 60px;
     height: 60px;
     background-color: #39a900;
@@ -46,11 +46,11 @@ body{
     width: 870px;
     height: 330px;
     font-size: 17px;
-    text-align:justify;
     margin-left: 10px;
     font-family: 'Lora', serif;
     font-family: 'Roboto Condensed', sans-serif;
     padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 .fundador{
